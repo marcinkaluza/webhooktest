@@ -1,2 +1,2 @@
 # webhooktest
-Sample repo for testing webhooks
+Sample repo for testing webhooks. THis repo is a testbed for testing webhooks.
